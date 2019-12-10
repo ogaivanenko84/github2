@@ -1,0 +1,9 @@
+Static, dynamic and passive testing
+
+There are many approaches available in software testing. Reviews, walkthroughs, or inspections are referred to as static testing, whereas executing programmed code with a given set of test cases is referred to as dynamic testing.[14][15]
+
+Static testing is often implicit, like proofreading, plus when programming tools/text editors check source code structure or compilers (pre-compilers) check syntax and data flow as static program analysis. Dynamic testing takes place when the program itself is run. Dynamic testing may begin before the program is 100% complete in order to test particular sections of code and are applied to discrete functions or modules.[14][15] Typical techniques for these are either using stubs/drivers or execution from a debugger environment.[15]
+
+Static testing involves verification, whereas dynamic testing also involves validation.[15]
+
+Passive testing means verifying the system behavior without any interaction with the software product. Contrary to active testing, testers do not provide any test data but look at system logs and traces. They mine for patterns and specific behavior in order to make some kind of decisions.[16] This is related to offline runtime verification and log analysis. 
